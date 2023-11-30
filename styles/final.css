@@ -1,0 +1,6828 @@
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+ul,
+li {
+  list-style: none;
+}
+input {
+  border: none;
+}
+body {
+  /* width: 136rem; */
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 3.25rem  ;
+}
+
+.final-uS5 {
+  box-sizing: border-box;
+  padding-top: 1.5rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.final-uS5 .nav-UtV {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .auto-group-6kev-Pty {
+  margin: 0rem 16.2rem 1.5rem 16.5rem;
+  width: calc(100% - 32.7rem);
+  height: 4.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .auto-group-6kev-Pty .logo-1-UfX {
+  width: 9.2rem;
+  height: 4.4rem;
+  position: relative;
+  background-size: 101.358% 100%;
+  background-position: -0.0781rem 0;
+  background-image: url("../assets/logo-1-yiM.png");
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .auto-group-6kev-Pty .auto-group-v3kb-ZS5 {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.1rem 40.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .nav-UtV
+  .auto-group-6kev-Pty
+  .auto-group-v3kb-ZS5
+  .group-427324202-5fK {
+  margin: 0.8rem 4.25rem 0.9rem 0rem;
+  height: calc(100% - 1.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .nav-UtV
+  .auto-group-6kev-Pty
+  .auto-group-v3kb-ZS5
+  .group-427324202-5fK
+  .call1-1J5 {
+  margin: 0rem 2.25rem 0.1rem 0rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .nav-UtV
+  .auto-group-6kev-Pty
+  .auto-group-v3kb-ZS5
+  .group-427324202-5fK
+  .item-0203-519-4420-WVj {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .nav-UtV
+  .auto-group-6kev-Pty
+  .auto-group-v3kb-ZS5
+  .group-427324201-JyK {
+  margin: 1rem 4.2rem 1.1rem 0rem;
+  height: calc(100% - 2.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .nav-UtV
+  .auto-group-6kev-Pty
+  .auto-group-v3kb-ZS5
+  .group-427324201-JyK
+  .group-qCZ {
+  margin: 0.079rem 3rem 0rem 0rem;
+  width: 2.3rem;
+  height: 1.4786rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .nav-UtV
+  .auto-group-6kev-Pty
+  .auto-group-v3kb-ZS5
+  .group-427324201-JyK
+  .infosolarinnovatiocom-8xM {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .nav-UtV
+  .auto-group-6kev-Pty
+  .auto-group-v3kb-ZS5
+  .group-427324388-Tzd {
+  width: 12.9rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.7852272987;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #86be3f;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .line-8-ta9 {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #f3eded;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em {
+  margin: 0rem 16.4rem 0rem 16.5rem;
+  width: calc(100% - 32.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em .home-V49 {
+  margin: 0rem 7.933rem 0.2rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 0.8102272881;
+  color: #86be3f;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em .chi-siamo-QB7 {
+  margin: 0.1rem 7.833rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.9546479119;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em .sire-K3B {
+  margin: 0.1rem 7.833rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.9546479119;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em .sire-features-Sdb {
+  margin: 0.1rem 8.433rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.9546479119;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em .why-sire-AJh {
+  margin: 0rem 7.833rem 0.1rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.9546479119;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em .sire-product-HPK {
+  margin: 0rem 7.833rem 0.1rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.9546479119;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .nav-UtV .group-427324272-1em .how-it-works-cAh {
+  margin-top: 0.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 0.9546479119;
+  color: #8a8888;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-epd7-L6h {
+  box-sizing: border-box;
+  padding: 27.625rem 25.8rem 27.225rem 25.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.200000003);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/rfffhqsierpacssbtgpe7zdhfwlzkevcmc6ldmopw85tcfiyo5al397rzgjg6gaoosufyeidlwemkiijknbocahdgih717ii4qsf8g5lujts3q4nhuue61qkmhxswe1q0yfmodbvsfcuyfrzzjkfdbdbpbi19sduxmcn1o4zmccxiwzgjxvw2lfx8cgfunzllsof4ofzrmot6qy4-1-bg.png");
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-epd7-L6h .il-tuo-accesso-al-sole-TBK {
+  margin-bottom: 2.45rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 300;
+  line-height: 0.8752272725;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-epd7-L6h
+  .il-tuo-accesso-al-sole-TBK
+  .il-tuo-accesso-al-sole-TBK-sub-0 {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 0.8752272725;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5
+  .auto-group-epd7-L6h
+  .il-tuo-accesso-al-sole-TBK
+  .il-tuo-accesso-al-sole-TBK-sub-1 {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 0.8752272725;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5
+  .auto-group-epd7-L6h
+  .il-tuo-accesso-al-sole-TBK
+  .il-tuo-accesso-al-sole-TBK-sub-2 {
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 0.8752272725;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5
+  .auto-group-epd7-L6h
+  .sistemi-fotovoltaici-intelligenti-ad-uso-residenziale-anche-in-assenza-di-tetto-la-tua-fonte-denergia-gratuita-e-sostenibile-Qnh {
+  max-width: 92.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.4102274577;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho {
+  box-sizing: border-box;
+  padding: 8rem 0rem 8.029rem 7.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-yfyf-9do {
+  margin: 0rem 18.65rem 3.3rem 0rem;
+  width: calc(100% - 18.65rem);
+  height: 16.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-yfyf-9do .group-427324279-3UH {
+  margin: 2.1rem 2.743rem 4.866rem 0rem;
+  height: calc(100% - 6.9664rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-yfyf-9do
+  .group-427324279-3UH
+  .frame-ZBj {
+  margin: 0rem 0.862rem 0rem 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-yfyf-9do
+  .group-427324279-3UH
+  .frame-U3o {
+  margin-bottom: 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-yfyf-9do .auto-group-lhnm-bu7 {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-yfyf-9do
+  .auto-group-lhnm-bu7
+  .about-us-9fj {
+  margin: 0rem 0rem 2.8rem 0.2rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 0.840227286;
+  text-transform: uppercase;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-yfyf-9do
+  .auto-group-lhnm-bu7
+  .vector-10-TwK {
+  margin: 0rem 0rem 2.6rem 0rem;
+  width: 11.9419rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-yfyf-9do
+  .auto-group-lhnm-bu7
+  .solar-innovatio-una-pmi-innovativa-italiana-specializzata-nella-progettazione-e-realizzazione-di-sistemi-fotovoltaici-intelligenti-solar-innovatio-unisce-alla-decennale-esperienza-maturata-nel-panorama-italiano-nellambito-delle-soluzioni-fotovoltaiche-un-approccio-ingegneristico-innovativo-digitale-alla-principale-fonte-di-energia-rinnovabile-bnd {
+  max-width: 106.7rem;
+  text-align: center;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.5502274457;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR {
+  margin: 0rem 0rem 0rem 25.016rem;
+  /* padding: 0rem 0rem 0rem 0rem; */
+  width: 170.0662rem;
+  height: 37rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .rectangle-52-SRs {
+  width: 35rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 8.8838rem;
+  top: 9.3rem;
+  background-color: #f8f8f8;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .cristian-testoni-x9K {
+  width: 15.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 18.3907rem;
+  top: 19.1852rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-ktw3-MQR
+  .ingegnere-meccanico-mba-ho-ricoperto-cariche-di-consulente-e-progettista-in-aziende-meccaniche-ho-avviato-come-imprenditore-svariate-iniziative-in-ambito-automotive-e-mobilit-elettrica-enq {
+  width: 32rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 10.3338rem;
+  top: 22.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3928571429;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .rectangle-52-5NM {
+  width: 35rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 46.9838rem;
+  top: 9.3rem;
+  background-color: #f8f8f8;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .francesco-gavioli-oZF {
+  width: 17.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 55.3908rem;
+  top: 19.1683rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .rectangle-52-huX {
+  width: 35rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 85.0838rem;
+  top: 9.3rem;
+  background-color: #f8f8f8;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .rectangle-53-R4q {
+  width: 18.2rem;
+  height: 17.2rem;
+  position: absolute;
+  left: 93.3732rem;
+  top: 0.0831rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .massimo-fabi-8E9 {
+  width: 14rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 95.4231rem;
+  top: 19.1683rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .testoni-cristian-Eny {
+  width: 18.3rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 17.2838rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-ktw3-MQR
+  .massimo-fabi-direttore-commerciale-9uw {
+  width: 18.2rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 93.3838rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-tkrm-Rho .auto-group-ktw3-MQR .gavioli-t6q {
+  width: 18.2rem;
+  height: 17.1rem;
+  position: absolute;
+  left: 55.3838rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.6rem;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-ktw3-MQR
+  .nel-corso-degli-anni-ho-maturato-una-profonda-conoscenza-nella-progettazione-e-realizzazione-di-impianti-elettrici-e-di-energia-rinnovabile-dal-2020-sono-fondatore-di-gavioli-impianti-azienda-allavanguardia-nellinstallazione-di-impianti-fotovoltaici-QL5 {
+  width: 32.8rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 47.8338rem;
+  top: 22.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .auto-group-ktw3-MQR
+  .laurato-in-economia-e-commercio-mi-sono-occupato-per-anni-di-business-development-sia-in-multinazionali-che-pmi-italiane-in-differenti-settori-bQZ {
+  width: 30.9rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 87.1838rem;
+  top: 22.5rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5714285714;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5 .auto-group-tkrm-Rho .group-427324378-r5b {
+  margin: 0rem 27.6rem 7.9rem 19.9rem;
+  width: calc(100% - 47.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .group-427324378-r5b .item--Ary {
+  margin-right: 2.05rem;
+  text-align: center;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #9a9a9a;
+  font-family: Playfair Display, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .group-427324378-r5b .auto-group-7y6q-5U9 {
+  margin: 1.3rem 2.85rem 0rem 0rem;
+  width: 77.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .group-427324378-r5b
+  .auto-group-7y6q-5U9
+  .non-sviluppiamo-pannelli-fotovoltaici-il-pannello-solo-una-componente-di-una-soluzione-ingegneristica-pi-completa-che-comprende-sensoristiche-avanzate-e-lintegrazione-con-i-sistemi-domotici-di-casa-CYm {
+  margin-bottom: 2.4rem;
+  max-width: 77.1rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 500;
+  line-height: 1.4285714286;
+  font-style: italic;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .group-427324378-r5b
+  .auto-group-7y6q-5U9
+  .group-427323765-EEZ {
+  margin: 0 29.45rem;
+  width: calc(100% - 58.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .group-427324378-r5b
+  .auto-group-7y6q-5U9
+  .group-427323765-EEZ
+  .line-6-YW9 {
+  margin-right: 0.7rem;
+  width: 1.4rem;
+  height: 0.1rem;
+  background-color: #86be3f;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .group-427324378-r5b
+  .auto-group-7y6q-5U9
+  .group-427323765-EEZ
+  .cristian-testoni-5FB {
+  margin-right: 0.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 0.9102274577;
+  color: #86be3f;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .group-427324378-r5b
+  .auto-group-7y6q-5U9
+  .group-427323765-EEZ
+  .line-7-z7F {
+  width: 1.4rem;
+  height: 0.1rem;
+  background-color: #86be3f;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .group-427324378-r5b .item--KvD {
+  text-align: center;
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #9a9a9a;
+  font-family: Playfair Display, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 {
+  margin-right: 16.4rem;
+  width: 117.9rem;
+  height: 55.5713rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324281-nYu {
+  width: 8.2071rem;
+  height: 9.5336rem;
+  position: absolute;
+  left: 48.6035rem;
+  top: 46.0376rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324281-nYu .frame-WE1 {
+  margin: 0rem 0.862rem 0rem 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324281-nYu .frame-q1P {
+  margin-bottom: 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324282-Zxy {
+  width: 8.2071rem;
+  height: 9.5336rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324282-Zxy .frame-KBT {
+  margin: 0rem 0.862rem 0rem 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324282-Zxy .frame-3t9 {
+  margin-bottom: 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .ellipse-1-zHb {
+  width: 41.3904rem;
+  height: 41.3905rem;
+  position: absolute;
+  left: 7.7035rem;
+  top: 7.6849rem;
+  border: solid 3.8rem #f8f8f8;
+  box-sizing: border-box;
+  border-radius: 20.6952rem;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324277-HnV {
+  width: 62.5rem;
+  height: 26.2022rem;
+  position: absolute;
+  left: 55.4rem;
+  top: 12.5rem;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .sire-4N1
+  .group-427324277-HnV
+  .group-427324276-pnR {
+  width: 17.5071rem;
+  height: 16.8301rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .sire-4N1
+  .group-427324277-HnV
+  .group-427324275-N3F {
+  width: 62.5rem;
+  height: 21.6807rem;
+  position: absolute;
+  left: 0;
+  top: 4.5215rem;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .sire-4N1
+  .group-427324277-HnV
+  .group-427324275-N3F
+  .sire-tXP {
+  margin-bottom: 1.2807rem;
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 0.8402273178;
+  color: #86be3f;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .sire-4N1
+  .group-427324277-HnV
+  .group-427324275-N3F
+  .smart-integrated-renewable-energy-zqK {
+  margin-bottom: 2.4039rem;
+  font-size: 3.4rem;
+  font-weight: 600;
+  line-height: 1.3235294118;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .sire-4N1
+  .group-427324277-HnV
+  .group-427324275-N3F
+  .vector-9-viy {
+  margin: 0rem 0rem 2.696rem 0.117rem;
+  width: 11.9419rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .sire-4N1
+  .group-427324277-HnV
+  .group-427324275-N3F
+  .sire-il-primo-sistema-fotovoltaico-intelligente-al-mondo-per-la-produzione-conversione-e-gestione-dellenergia-solare-studiato-specificatamente-per-installazioni-allinterno-di-condomini-TU1 {
+  margin-left: 0.1166rem;
+  max-width: 54.7rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.6000000449;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324280-tZK {
+  width: 8.2071rem;
+  height: 9.5336rem;
+  position: absolute;
+  left: 97.6631rem;
+  top: 5.0103rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324280-tZK .frame-ckD {
+  margin: 0rem 0.862rem 0rem 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .group-427324280-tZK .frame-wnV {
+  margin-bottom: 0rem;
+  width: 3.6728rem;
+  height: 9.5336rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-tkrm-Rho
+  .sire-4N1
+  .donald-giannatti-wj1d-qiosee-unsplash-2-VJD {
+  width: 35rem;
+  height: 37.6505rem;
+  position: relative;
+  left: 4.1035rem;
+  top: 3.6214rem;
+  background-size: 235.336% 145.597%;
+  background-position: -38.5016rem -25.2774rem;
+  background-image: url("../assets/donald-giannatti-wj1d-qiosee-unsplash-2.png");
+  border-radius: 0.5rem;
+}
+.final-uS5 .auto-group-tkrm-Rho .sire-4N1 .unsplash-3tq8i-sr9a8-kE9 {
+  width: 32.6544rem;
+  height: 23.0773rem;
+  position: absolute;
+  left: 20.2045rem;
+  top: 29.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.final-uS5 .group-427324269-TeM {
+  width: 100%;
+  height: 75.75rem;
+  position: relative;
+  background-color: #fbfbfb;
+  flex-shrink: 0;
+}
+.final-uS5 .group-427324269-TeM .pattern-8-2-QZb {
+  width: 143.5158rem;
+  height: 75.75rem;
+  position: relative;
+  left: 0.4348rem;
+  top: 0;
+  background-size: 144.636% 86.63%;
+  background-position: -23.7959rem 0rem;
+  background-image: url("../assets/pattern-8-2.png");
+}
+.final-uS5 .group-427324269-TeM .group-427324381-uFT {
+  width: 110.8rem;
+  height: 58.0693rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 8.7103rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.final-uS5 .group-427324269-TeM .group-427324381-uFT .auto-group-wsnq-25B {
+  box-sizing: border-box;
+  padding-bottom: 3.7193rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .about-us-MNM {
+  margin: 0rem 1rem 2.719rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 0.840227286;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .vector-11-zw7 {
+  margin: 0rem 0rem 7.65rem 0rem;
+  width: 11.9419rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX {
+  margin: 0rem 0.1rem 3.535rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 12.1454rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324353-SYD {
+  margin-right: 11.5rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324353-SYD
+  .auto-group-8voj-PTT {
+  margin: 0rem 1.3rem 6.045rem 0rem;
+  box-sizing: border-box;
+  padding: 1.894rem 1.3rem 1.8rem 1.3rem;
+  border: solid 0.3rem #86be3f;
+  border-radius: 3.05rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324353-SYD
+  .auto-group-8voj-PTT
+  .group-hU9 {
+  width: 3.5rem;
+  height: 2.4066rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324353-SYD
+  .auto-group-qr8v-bZX {
+  margin-top: 0.05rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324353-SYD
+  .auto-group-qr8v-bZX
+  .versatile-jfj {
+  margin-bottom: 1.0954rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 0.8402273178;
+  color: #1e1e1e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324353-SYD
+  .auto-group-qr8v-bZX
+  .installabile-in-qualsiasi-balcone-anche-allinterno-del-condominio-non-richiede-autorizzazioni-ne-opere-murarie-utile-anche-come-schermatura-solare-Gff {
+  max-width: 39.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2852274577;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324380-2HT {
+  height: 9.3204rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324380-2HT
+  .group-427324379-BAM {
+  margin: 0rem 1.3rem 3.22rem 0rem;
+  box-sizing: border-box;
+  padding: 1.447rem 1.1rem 1.441rem 1.1rem;
+  border: solid 0.3rem #86be3f;
+  border-radius: 3.05rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324380-2HT
+  .group-427324379-BAM
+  .group-UfF {
+  width: 3.9rem;
+  height: 3.2117rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324380-2HT
+  .auto-group-ae77-19P {
+  margin-top: 0.05rem;
+  height: calc(100% - 0.05rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324380-2HT
+  .auto-group-ae77-19P
+  .indipendente-e-green-Yv1 {
+  margin-bottom: 1.0704rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 0.8402273178;
+  color: #1e1e1e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-s8pm-8XX
+  .group-427324380-2HT
+  .auto-group-ae77-19P
+  .dalle-fonte-non-rinnovabili-non-pi-unutopia-sire-fornisce-laccesso-a-fonti-energetiche-green-anche-a-chi-non-ha-un-tetto-di-propriet-H6u {
+  margin-left: 0.0001rem;
+  max-width: 45.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2002274195;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F {
+  margin-right: 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 13.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324354-Fxq {
+  margin-right: 4.9rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324354-Fxq
+  .auto-group-ojub-Qqj {
+  margin: 0rem 1.3rem 7.6rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.3rem;
+  border: solid 0.3rem #86be3f;
+  border-radius: 3.05rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324354-Fxq
+  .auto-group-ojub-Qqj
+  .vector-92d {
+  width: 3.5rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324354-Fxq
+  .group-427324339-rSq {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324354-Fxq
+  .group-427324339-rSq
+  .automatizzato-QjF {
+  margin-bottom: 1.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 0.8402273178;
+  color: #1e1e1e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324354-Fxq
+  .group-427324339-rSq
+  .totalmente-automatico-e-retraibile-sire-regola-la-quantit-di-sole-in-casa-in-base-alle-necessit-un-perfetto-connubio-tra-sole-e-ombra-i-suoi-sensori-regolano-lesposizione-in-base-alle-condizioni-atmosferiche-kYD {
+  max-width: 45.9rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2002274195;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324357-PbB {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324357-PbB
+  .auto-group-xfwk-jf3 {
+  margin: 0rem 1.3rem 7.6rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.7rem 1.5rem 1.7rem;
+  border: solid 0.3rem #86be3f;
+  border-radius: 3.05rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324357-PbB
+  .auto-group-xfwk-jf3
+  .vector-dVX {
+  width: 2.7rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324357-PbB
+  .auto-group-yrl1-MRX {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324357-PbB
+  .auto-group-yrl1-MRX
+  .connesso-WZK {
+  margin-bottom: 1.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 0.8402273178;
+  color: #1e1e1e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-wsnq-25B
+  .auto-group-pzho-X1F
+  .group-427324357-PbB
+  .auto-group-yrl1-MRX
+  .il-sistema-si-connette-ai-dispositivi-alexa-google-elettrodomestici-20-wi-fi-tramite-lapp-accedi-ai-dati-di-produzione-dellenergia-e-ricevi-notifiche-e-suggerimenti-per-lutilizzo-ottimale-dellenergia-autoprodotta-r7P {
+  max-width: 44.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2002274195;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .group-427324269-TeM .group-427324381-uFT .auto-group-xrzd-UPf {
+  width: 100%;
+  height: 11.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324355-pCd {
+  margin-right: 5.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324355-pCd
+  .auto-group-zkv1-Zg1 {
+  margin: 0rem 1.3rem 5.34rem 0rem;
+  box-sizing: border-box;
+  padding: 1.814rem 1.5rem 1.821rem 1.464rem;
+  border: solid 0.3rem #86be3f;
+  border-radius: 3.05rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324355-pCd
+  .auto-group-zkv1-Zg1
+  .group-Hc1 {
+  width: 3.1363rem;
+  height: 2.4645rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324355-pCd
+  .group-427324340-DEm {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324355-pCd
+  .group-427324340-DEm
+  .efficiente-Afo {
+  margin-bottom: 1.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 0.8402273178;
+  color: #1e1e1e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324355-pCd
+  .group-427324340-DEm
+  .il-sistema-di-accumulo-permette-di-conservare-lenergia-generata-in-eccesso-e-renderla-disponibile-quando-serve-per-esempio-di-sera-o-in-giornate-nuvolose-hvd {
+  max-width: 45.7rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2002274195;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324356-AZK {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324356-AZK
+  .auto-group-3wvs-vHb {
+  margin: 0rem 1.3rem 5.4rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.7rem;
+  border: solid 0.3rem #86be3f;
+  border-radius: 3.05rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324356-AZK
+  .auto-group-3wvs-vHb
+  .vector-Fqf {
+  width: 2.7rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324356-AZK
+  .auto-group-ytvu-asw {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324356-AZK
+  .auto-group-ytvu-asw
+  .resistente-9RF {
+  margin-bottom: 1.1rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 0.8402273178;
+  color: #1e1e1e;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .group-427324269-TeM
+  .group-427324381-uFT
+  .auto-group-xrzd-UPf
+  .group-427324356-AZK
+  .auto-group-ytvu-asw
+  .il-sistema-realizzato-con-un-rivestimento-protettivo-impermeabile-isolante-e-resistente-a-fenomeni-atmosferici-aggressivi-allabrasione-urti-e-graffi-5ph {
+  max-width: 45.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2002274195;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-ze1b-Xwb {
+  box-sizing: border-box;
+  padding: 8.05rem 16.194rem 5.089rem 16.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-ze1b-Xwb .about-us-TKT {
+  margin: 0rem 0rem 2.73rem 0.194rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 0.840227286;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-ze1b-Xwb .vector-15-aey {
+  margin: 0rem 0.164rem 5.23rem 0rem;
+  width: 11.9419rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-ze1b-Xwb .auto-group-ngvr-WYd {
+  width: 100%;
+  height: 37.251rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-ze1b-Xwb .auto-group-ngvr-WYd .auto-group-mtdx-44M {
+  margin: 0rem 3.534rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 3.973rem 1.356rem 2.911rem 1.35rem;
+  width: 34.9059rem;
+  height: calc(100% - 0rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 1.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-mtdx-44M
+  .group-8a1 {
+  margin: 0rem 0rem 2.348rem 0.006rem;
+  width: 6.7105rem;
+  height: 7.0189rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-mtdx-44M
+  .risparmio-energetico-eoF {
+  margin-bottom: 0.4rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 2.0833333333;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-mtdx-44M
+  .risparmia-da-un-minimo-del-60-sulla-bolletta-fino-allindipendenza-energetica-anche-grazie-alla-schermatura-solare-che-consente-una-riduzione-fino-al-95-dei-raggi-uv-e-quindi-un-minor-utilizzo-del-condizionatore-NUM {
+  max-width: 32.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-ze1b-Xwb .auto-group-ngvr-WYd .auto-group-dnvb-kzh {
+  margin: 0rem 3.254rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 3.953rem 1.568rem 5.411rem 1.138rem;
+  width: 34.9059rem;
+  height: calc(100% - 0rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 1.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .group-SMj {
+  margin: 0rem 12.333rem 2.328rem 12.763rem;
+  box-sizing: border-box;
+  padding: 0.389rem 0.56rem 0.389rem 0.985rem;
+  width: calc(100% - 25.0958rem);
+  height: 7.0583rem;
+  display: flex;
+  align-items: flex-end;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../assets/vector-cHb.png");
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .group-SMj
+  .auto-group-qfjv-KwK {
+  margin: 0rem 0.141rem 0.625rem 0rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .group-SMj
+  .auto-group-qfjv-KwK
+  .vector-rRT {
+  margin: 0rem 0.131rem 1.585rem 0rem;
+  width: 1.6521rem;
+  height: 2.8623rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .group-SMj
+  .auto-group-qfjv-KwK
+  .vector-z1s {
+  width: 0.9171rem;
+  height: 1.2089rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .group-SMj
+  .vector-8ds {
+  margin: 0rem 0.141rem 0.539rem 0rem;
+  width: 2.5771rem;
+  height: 1.2298rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .group-SMj
+  .vector-Gk5 {
+  margin-bottom: 0.5997rem;
+  width: 0.9171rem;
+  height: 1.2089rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .mobilit-elettrica-niR {
+  margin: 0rem 0rem 0.5rem 0.545rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 2.0833333333;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-dnvb-kzh
+  .lunica-soluzione-che-rende-lutilizzo-di-unauto-elettrica-veramente-economico-lefficienza-dei-pannelli-e-le-batterie-di-accumulo-garantiscono-fino-a-29000-chilometri-annui-a-emissioni-zero-JAy {
+  max-width: 32.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-ze1b-Xwb .auto-group-ngvr-WYd .auto-group-nn8d-WXw {
+  margin-top: 0rem;
+  box-sizing: border-box;
+  padding: 3.622rem 1.403rem 2.771rem 1.403rem;
+  width: 34.9059rem;
+  height: calc(100% - 0rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 1.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-nn8d-WXw
+  .group-1Uh {
+  margin: 0rem 0rem 1.997rem 0rem;
+  width: 7.7231rem;
+  height: 7.7211rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-nn8d-WXw
+  .comunit-energetica-jfb {
+  margin-bottom: 0.5405rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 2.0833333333;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-ze1b-Xwb
+  .auto-group-ngvr-WYd
+  .auto-group-nn8d-WXw
+  .dal-concetto-di-condominio-al-concetto-di-comunit-energetica-sire-il-sistema-che-rende-possibile-realizzare-una-comunit-energetica-rinnovabile-senza-acquisto-di-energia-elettrica-dalla-rete-4C5 {
+  max-width: 32.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB {
+  box-sizing: border-box;
+  padding: 3rem 16.688rem 2.997rem 16.312rem;
+  width: 100%;
+  height: 20.7873rem;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+  background-color: #f8f8f8;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-fxxf-Z2M {
+  box-sizing: border-box;
+  padding: 2.292rem 7.65rem 2.183rem 7.65rem;
+  width: 25.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-fxxf-Z2M .group-4Uu {
+  margin: 0rem 2.496rem 1.476rem 2.496rem;
+  width: calc(100% - 4.9921rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-j49t-eRB
+  .auto-group-fxxf-Z2M
+  .group-4Uu
+  .auto-group-k1f3-ay3 {
+  margin: 0rem 0.005rem 0.329rem 0rem;
+  width: 4.0213rem;
+  height: 0.9765rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-j49t-eRB
+  .auto-group-fxxf-Z2M
+  .group-4Uu
+  .auto-group-cwpb-Wbo {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-j49t-eRB
+  .auto-group-fxxf-Z2M
+  .group-4Uu
+  .auto-group-cwpb-Wbo
+  .vector-TX3 {
+  margin: 0rem 0.132rem 0rem 0rem;
+  width: 1.6385rem;
+  height: 0.9765rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-j49t-eRB
+  .auto-group-fxxf-Z2M
+  .group-4Uu
+  .auto-group-cwpb-Wbo
+  .vector-zms {
+  margin-right: 0.1371rem;
+  width: 1.6732rem;
+  height: 2.1889rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-j49t-eRB
+  .auto-group-fxxf-Z2M
+  .group-4Uu
+  .auto-group-cwpb-Wbo
+  .vector-YYV {
+  margin-top: 0rem;
+  width: 1.6274rem;
+  height: 0.9765rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-fxxf-Z2M .item-110-HW5 {
+  margin-bottom: 0.5452rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-fxxf-Z2M .superbonus-c2Z {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-9ckx-Vc9 {
+  box-sizing: border-box;
+  padding: 2.388rem 3.55rem 2.633rem 3.55rem;
+  width: 25.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-9ckx-Vc9 .auto-group-4iof-cRs {
+  margin-bottom: 1.618rem;
+  width: 2.201rem;
+  height: 3.3014rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-9ckx-Vc9 .item-65-Lsf {
+  margin-bottom: 1.45rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 0.7708333333;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-9ckx-Vc9 .detrazione-domotica-fuw {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.90625;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-qfob-LmB {
+  box-sizing: border-box;
+  padding: 2.389rem 6.25rem 1.645rem 6.25rem;
+  width: 25.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.1199999973);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-qfob-LmB .vector-4SH {
+  margin-bottom: 2.6563rem;
+  width: 2.9rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-j49t-eRB
+  .auto-group-qfob-LmB
+  .progettazione-personalizzata-1MX {
+  max-width: 13rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-hmx3-H49 {
+  box-sizing: border-box;
+  padding: 2.489rem 2.8rem 1.645rem 2.8rem;
+  width: 25.5rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #f5f5f5;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-j49t-eRB .auto-group-hmx3-H49 .vector-zz9 {
+  margin-bottom: 2.7563rem;
+  width: 4.2rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-j49t-eRB
+  .auto-group-hmx3-H49
+  .consulenza-fiscale-sui-bonus-9MF {
+  max-width: 19.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-gcw9-DM7 {
+  box-sizing: border-box;
+  padding: 8.013rem 16.4rem 8rem 16.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-gcw9-DM7 .about-us-8ys {
+  margin: 0rem 1rem 2.4rem 0rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 0.840227286;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-gcw9-DM7 .vector-13-4Mj {
+  margin: 0rem 0.158rem 5.3rem 0rem;
+  width: 11.9419rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-gcw9-DM7 .auto-group-xqcd-zWH {
+  width: 100%;
+  height: 95.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-gcw9-DM7 .auto-group-xqcd-zWH .auto-group-cpjh-9PB {
+  margin-right: 3rem;
+  width: 54rem;
+  height: 100%;
+  box-shadow: 0 0 1.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .pexels-pixabay-46169-1-ge1 {
+  margin-bottom: 2.4rem;
+  width: 54rem;
+  height: 33.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .sire-direct-CsF {
+  margin-left: 2.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 0.8802273273;
+  color: #86be3f;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf {
+  width: 100%;
+  height: 57rem;
+  position: relative;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .consigliato-per--5AM {
+  width: 14.7rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 20.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8402273059;
+  color: #363636;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m {
+  width: 41.1rem;
+  height: 16.7203rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 2.3rem;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .group-427323751-JYu {
+  margin: 0rem 27.2rem 2.045rem 0rem;
+  width: calc(100% - 27.2rem);
+  display: flex;
+  align-items: flex-start;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .group-427323751-JYu
+  .group-427323744-ESZ {
+  margin: 0.04rem 1.2rem 0rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .group-427323751-JYu
+  .sistema-plugin-9ZX {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.675227344;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .group-427323747-VNV {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .group-427323747-VNV
+  .group-427323649-T4R {
+  margin: 0.5rem 1.2rem 0rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .group-427323747-VNV
+  .struttura-meccanizzata-in-poliuera-e-sensoristica-intelligente-NhB {
+  max-width: 39rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2452273369;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy {
+  box-sizing: border-box;
+  padding-top: 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323748-cLd {
+  margin: 0rem 15rem 1.9rem 0rem;
+  width: calc(100% - 15rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323748-cLd
+  .group-427323744-YVB {
+  margin: 0.04rem 1.2rem 0rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323748-cLd
+  .pannelli-alta-efficienza-da-1kw-GAH {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.8152273297;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323749-PEu {
+  margin: 0rem 1.7rem 1.9rem 0rem;
+  width: calc(100% - 1.7rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323749-PEu
+  .group-427323745-7gh {
+  margin: 0rem 1.2rem 0.105rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323749-PEu
+  .inverter-e-conne-ssione-aiiimpianto-domestico-eAq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.6902273297;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323750-NMj {
+  margin-right: 17.1rem;
+  width: calc(100% - 17.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323750-NMj
+  .group-427323746-igV {
+  margin: 0rem 1.2rem 0.046rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324289-n4m
+  .auto-group-ewjm-gSy
+  .group-427323750-NMj
+  .app-di-controllo-e-gesti-one-3im {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.7652273178;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324292-muf {
+  width: 49.0674rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2.5455rem;
+  top: 34.6993rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324292-muf
+  .scopri-le-caratteristiche-tecniche-6ww {
+  margin-right: 21.1674rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.7452273369;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324292-muf
+  .vector-cvH {
+  margin-bottom: 0rem;
+  width: 1.3rem;
+  height: 0.7364rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF {
+  width: 18rem;
+  height: 9rem;
+  position: absolute;
+  left: 2.6rem;
+  top: 24.3rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324383-VUH {
+  margin-right: 5.1rem;
+  width: 6.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324383-VUH
+  .group-427324362-Egm {
+  margin: 0rem 0.05rem 1rem 0.05rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2rem 1.499rem 1.999rem;
+  width: calc(100% - 0.1rem);
+  background-color: #f5f5f5;
+  border-radius: 3.1rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324383-VUH
+  .group-427324362-Egm
+  .group-427324302-9Yq {
+  width: 2.201rem;
+  height: 3.3014rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324383-VUH
+  .devices-5Bb {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0902274847;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324382-pQ5 {
+  width: 6.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324382-pQ5
+  .group-427324361-NAh {
+  margin: 0rem 0.2rem 1rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.369rem 1.347rem 1.4rem;
+  width: calc(100% - 0.4rem);
+  background-color: #f5f5f5;
+  border-radius: 3.1rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324382-pQ5
+  .group-427324361-NAh
+  .group-5L1 {
+  width: 3.4308rem;
+  height: 3.4533rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .auto-group-oqnh-xjF
+  .group-427324382-pQ5
+  .families-1UZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0902274847;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324298-wt1 {
+  width: 29rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 38.3rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324298-wt1
+  .ellipse-49-fp1 {
+  margin: 0.194rem 1rem 0rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324298-wt1
+  .te-mpo-di-ricarica-medio-in-estate-Pk1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.7252274156;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324297-j3B {
+  width: 23.8rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 41.3rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324297-j3B
+  .ellipse-50-evq {
+  margin: 0.094rem 1rem 0rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324297-j3B
+  .tbd-tempo-di-scarica-a-16a-yTK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.6552273631;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324296-Wi9 {
+  width: 29.3rem;
+  height: 1.1rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 44.2rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324296-Wi9
+  .ellipse-51-eZT {
+  margin: 0.094rem 1rem 0rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324296-Wi9
+  .tbd-autonomia-dalla-rete-elettrica-LhB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.6602274179;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324295-sBK {
+  width: 29.8rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 47.2rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324295-sBK
+  .ellipse-52-bND {
+  margin: 0rem 1rem 0.006rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324295-sBK
+  .tbd-autonomia-in-casa-di-blackout-KZ7 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.7602274418;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324299-3zu {
+  width: 41.8rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 50.2rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324299-3zu
+  .ellipse-52-PJ5 {
+  margin: 0rem 1rem 0.106rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324299-3zu
+  .gg-immissione-di-co2-da-1022-kg-a-soo-kg-annui-ibF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.8702272773;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324300-E3o {
+  width: 29.3rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 53.4rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324300-E3o
+  .ellipse-52-ZLy {
+  margin: 0rem 1rem 0.106rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-cpjh-9PB
+  .auto-group-rmwm-LTf
+  .group-427324300-E3o
+  .te-mpo-di-ricarica-medio-in-estate-tPF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.8202273846;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-gcw9-DM7 .auto-group-xqcd-zWH .auto-group-zc6y-Pqo {
+  width: 54.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .rectangle-183-vKw {
+  width: 54rem;
+  height: 95.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0 1.4rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ {
+  width: 41.1rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 39.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .group-427324285-AVB {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .group-427324285-AVB
+  .group-427323649-X4q {
+  margin: 0.5rem 1.2rem 0rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .group-427324285-AVB
+  .struttura-meccanizzata-in-poliuera-e-sensoristica-intelligente-eQM {
+  max-width: 39rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2452273369;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D {
+  box-sizing: border-box;
+  padding-top: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324286-t3o {
+  margin: 0rem 15rem 1.88rem 0rem;
+  width: calc(100% - 15rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324286-t3o
+  .group-427323744-1eD {
+  margin: 0.04rem 1.2rem 0rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324286-t3o
+  .pannelli-alta-efficienza-da-1kw-j4R {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.8152273297;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324287-r93 {
+  margin: 0rem 1.7rem 1.8rem 0rem;
+  width: calc(100% - 1.7rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324287-r93
+  .group-427323745-yzM {
+  margin: 0rem 1.2rem 0.105rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324287-r93
+  .inverter-e-conne-ssione-aiiimpianto-domestico-Vxh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.6902273297;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324288-2Bw {
+  margin-right: 17.1rem;
+  width: calc(100% - 17.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324288-2Bw
+  .group-427323746-mfK {
+  margin: 0rem 1.2rem 0.046rem 0rem;
+  width: 0.9rem;
+  height: 1.215rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324293-3QZ
+  .auto-group-epd3-96D
+  .group-427324288-2Bw
+  .app-di-controllo-e-gesti-one-J9T {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.7652273178;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .sire-full-pdb {
+  width: 11.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 36rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 0.8802273273;
+  color: #86be3f;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .pexels-burak-kebapci-45072-1-KqF {
+  width: 54.1rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo {
+  width: 18.2337rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 59.1rem;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .consigliato-per--zRb {
+  margin-bottom: 2rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8402273059;
+  color: #363636;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9 {
+  width: 100%;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324385-5C9 {
+  margin-right: 5.3337rem;
+  width: 6.3rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324385-5C9
+  .group-427324362-15o {
+  margin: 0rem 0.05rem 1rem 0.05rem;
+  box-sizing: border-box;
+  padding: 1.4rem 2rem 1.499rem 1.999rem;
+  width: calc(100% - 0.1rem);
+  background-color: #f5f5f5;
+  border-radius: 3.1rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324385-5C9
+  .group-427324362-15o
+  .group-427324302-WHT {
+  width: 2.201rem;
+  height: 3.3014rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324385-5C9
+  .devices-2Wh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0902274847;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324384-a2R {
+  width: 6.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324384-a2R
+  .group-427324361-vMB {
+  margin: 0rem 0.2rem 1rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1.4rem 1.369rem 1.347rem 1.4rem;
+  width: calc(100% - 0.4rem);
+  background-color: #f5f5f5;
+  border-radius: 3.1rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324384-a2R
+  .group-427324361-vMB
+  .group-2f7 {
+  width: 3.4308rem;
+  height: 3.4533rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324389-Fyo
+  .auto-group-mm6v-va9
+  .group-427324384-a2R
+  .families-NDB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0902274847;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324298-J6q {
+  width: 25.1rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 76.4972rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324298-J6q
+  .ellipse-49-EFP {
+  margin-right: 1rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324298-J6q
+  .siste-ma-2-kw-con-accumuio-ZoT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0902274847;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324297-tqj {
+  width: 44rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 79.6972rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324297-tqj
+  .ellipse-50-d2d {
+  margin: 0rem 1rem 0.1rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324297-tqj
+  .tempo-di-ricarica-medio-in-estate-is-5-ore-e-30-minuti-Y9b {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.7902274132;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324296-G5b {
+  width: 27rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 82.6972rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324296-G5b
+  .ellipse-51-ByF {
+  margin: 0rem 1rem 0.1rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324296-G5b
+  .te-mpo-di-scarica-a-16a-is-8-ore-uuF {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.7702273726;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324295-SuB {
+  width: 30.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 85.6972rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324295-SuB
+  .ellipse-52-yPK {
+  margin: 0rem 1rem 0.3rem 0rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  background-color: #86be3f;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324295-SuB
+  .autonomia-dalla-rete-eiettrica-62po-JAh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9652273655;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324386-RFK {
+  width: 49.0674rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 2.6663rem;
+  top: 72.8993rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324386-RFK
+  .title-here-if-they-have-othervise-remove-this-LdB {
+  margin-right: 12.7674rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.7452273369;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-gcw9-DM7
+  .auto-group-xqcd-zWH
+  .auto-group-zc6y-Pqo
+  .group-427324386-RFK
+  .vector-Fk9 {
+  margin-bottom: 0rem;
+  width: 1.3rem;
+  height: 0.7364rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-jwgh-Bdo {
+  width: 144.4rem;
+  height: 56.7977rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324399-i7w {
+  box-sizing: border-box;
+  padding-top: 1.1rem;
+  width: 144.4rem;
+  height: 56.7977rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fafafa;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324399-i7w .group-427324299-qiM {
+  width: 144.4rem;
+  height: 55.6977rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324365-mru {
+  width: 17.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 62.9rem;
+  top: 46.8275rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8699999428;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #86be3f;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-jwgh-Bdo .vector-12-2H3 {
+  width: 11.9419rem;
+  height: 0;
+  position: absolute;
+  left: 66rem;
+  top: 11.361rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5 .auto-group-jwgh-Bdo .about-us-wuo {
+  width: 47.6rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 47.75rem;
+  top: 5.3402rem;
+  font-size: 3.6rem;
+  font-weight: 500;
+  line-height: 0.840227286;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324284-3xq {
+  width: 110.8rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 16.361rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324284-3xq .auto-group-yiu5-ZwB {
+  margin-right: 0.5877rem;
+  width: 27.9123rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-yiu5-ZwB
+  .group-427323753-7C1 {
+  width: 27.9123rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-yiu5-ZwB
+  .rectangle-178-rQV {
+  box-sizing: border-box;
+  padding: 3.131rem 1.55rem 3.6rem 1.55rem;
+  width: 22.7rem;
+  height: 23rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.0599999987);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-yiu5-ZwB
+  .rectangle-178-rQV
+  .frame-4-8cu {
+  margin: 0rem 0rem 2.195rem 0.034rem;
+  width: 3.9132rem;
+  height: 3.7733rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-yiu5-ZwB
+  .rectangle-178-rQV
+  .richiedi-un-preventivo-FSd {
+  margin: 0rem 0rem 1.8rem 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8402273059;
+  color: #363636;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-yiu5-ZwB
+  .rectangle-178-rQV
+  .senza-impegno-un-nostro-solar-expert-ti-contatter-per-verificare-ie-tue-esirenze-ditilizzn-ZTK {
+  max-width: 19.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.265227454;
+  color: #666666;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324284-3xq .auto-group-w1ch-QTw {
+  margin-right: 0.4877rem;
+  width: 27.9123rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-w1ch-QTw
+  .group-427323754-Z5w {
+  width: 27.9123rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-w1ch-QTw
+  .rectangle-179-u9o {
+  box-sizing: border-box;
+  padding: 3.118rem 2.3rem 5.3rem 2.5rem;
+  width: 22.7rem;
+  height: 23rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.0599999987);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-w1ch-QTw
+  .rectangle-179-u9o
+  .download-3-1-zS9 {
+  margin: 0rem 0rem 2.289rem 0.842rem;
+  width: 3.8368rem;
+  height: 3.6925rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-w1ch-QTw
+  .rectangle-179-u9o
+  .richiedi-un-preventivo-WfP {
+  margin-bottom: 1.8rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8402273059;
+  color: #363636;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-w1ch-QTw
+  .rectangle-179-u9o
+  .senza-impegno-un-nostro-solar-expert-ti-contatter-per-verificare-ie-tue-esirenze-ditilizzn-F7B {
+  margin-left: 0.1rem;
+  max-width: 15.8rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.265227454;
+  color: #666666;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324284-3xq .auto-group-vhqo-tR3 {
+  margin-right: 0.6877rem;
+  width: 27.9123rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-vhqo-tR3
+  .group-427323755-qLH {
+  width: 27.9123rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-vhqo-tR3
+  .rectangle-180-yxH {
+  box-sizing: border-box;
+  padding: 3.258rem 2.4rem 5.3rem 2.4rem;
+  width: 22.7rem;
+  height: 23rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.0599999987);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-vhqo-tR3
+  .rectangle-180-yxH
+  .download-4-1-GAh {
+  margin: 0rem 0.358rem 2.079rem 0rem;
+  width: 3.8368rem;
+  height: 3.7636rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-vhqo-tR3
+  .rectangle-180-yxH
+  .richiedi-un-preventivo-zMb {
+  margin: 0rem 0rem 1.8rem 0.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8402273059;
+  color: #363636;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-vhqo-tR3
+  .rectangle-180-yxH
+  .senza-impegno-un-nostro-solar-expert-ti-contatter-per-verificare-ie-tue-esirenze-ditilizzn-Jt5 {
+  max-width: 17.9rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.265227454;
+  color: #666666;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-jwgh-Bdo .group-427324284-3xq .auto-group-5zpu-yjK {
+  width: 25.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-5zpu-yjK
+  .group-427323756-jiV {
+  width: 25.3rem;
+  height: 25.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-5zpu-yjK
+  .rectangle-181-HED {
+  box-sizing: border-box;
+  padding: 3.258rem 2.25rem 7.1rem 2.45rem;
+  width: 22.7rem;
+  height: 23rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.0599999987);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-5zpu-yjK
+  .rectangle-181-HED
+  .download-5-1-NWZ {
+  margin: 0rem 0rem 2.079rem 1.442rem;
+  width: 3.8369rem;
+  height: 3.7637rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-5zpu-yjK
+  .rectangle-181-HED
+  .richiedi-un-preventivo-tUu {
+  margin: 0rem 0.1rem 1.8rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8402273059;
+  color: #363636;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-jwgh-Bdo
+  .group-427324284-3xq
+  .auto-group-5zpu-yjK
+  .rectangle-181-HED
+  .senza-impegno-un-nostro-solar-expert-ti-contatter-per-verificare-ie-tue-esirenze-ditilizzn-1ZX {
+  max-width: 18rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.265227454;
+  color: #666666;
+  font-family: Inter, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 {
+  width: 100%;
+  height: 147.4742rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .vector-14-1T3 {
+  width: 11.9419rem;
+  height: 0;
+  position: absolute;
+  left: 66rem;
+  top: 100.3023rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-2pwr-YC5 {
+  width: 63.4rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 20.3rem;
+  top: 82.0023rem;
+  display: flex;
+  align-items: flex-end;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-2pwr-YC5 .group-427324372-sVF {
+  margin: 0rem 23.796rem 0.52rem 0rem;
+  width: 16.2041rem;
+  height: 13.4804rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-2pwr-YC5 .auto-group-cyaq-bg9 {
+  width: 23.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-2pwr-YC5
+  .auto-group-cyaq-bg9
+  .group-427324366-M9X {
+  margin: 0rem 3.1rem 8rem 3.2rem;
+  width: calc(100% - 6.3rem);
+  height: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8699999428;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #86be3f;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-2pwr-YC5
+  .auto-group-cyaq-bg9
+  .about-us-Cvq {
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 0.840227286;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-kds5-Ln9 {
+  width: 111rem;
+  height: 34.4rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 105.0313rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-kds5-Ln9 .auto-group-xhem-g5K {
+  margin-right: 3rem;
+  box-sizing: border-box;
+  padding: 2.8rem 2.3rem 2.78rem 2.8rem;
+  width: 35rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #dedede;
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323700-msT {
+  margin-bottom: 2.8905rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323700-msT
+  .group-vVT {
+  margin-right: 1.7rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323700-msT
+  .leo-dui-fermentum-tristique-urna-tellus-eget-amet-aliquam-id-vitae-orci-UG5 {
+  max-width: 25.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3352273703;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323701-Aub {
+  margin: 0rem 8.8rem 3.609rem 0rem;
+  width: 21.1rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323701-Aub
+  .auto-group-pm4r-Vws {
+  margin: 0rem 1.7rem 0.328rem 0rem;
+  width: calc(100% - 1.7rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323701-Aub
+  .auto-group-pm4r-Vws
+  .group-427323699-EPf {
+  margin: 0.041rem 1.6rem 0rem 0rem;
+  width: 3.1rem;
+  height: 2.1313rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323701-Aub
+  .auto-group-pm4r-Vws
+  .emailemailcom-A2R {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9502273798;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323701-Aub
+  .supportemailcom-Hsj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9502273798;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323702-SEq {
+  margin: 0rem 12.2rem 3.3rem 0.4rem;
+  width: calc(100% - 12.6rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323702-SEq
+  .group-mH7 {
+  margin-right: 2rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .group-427323702-SEq
+  .item-29-98595-8998-WVb {
+  margin-bottom: 0.1095rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9502273798;
+  color: #666666;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .line-4-RsT {
+  margin: 0rem 0.5rem 1.72rem 0rem;
+  width: 29.2rem;
+  height: 0.1rem;
+  background-color: #dedede;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .auto-group-xhem-g5K
+  .we-will-get-back-to-you-within-24-hours-or-call-us-now-Mm7 {
+  margin-right: 5.9rem;
+  max-width: 23.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3352273703;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-kds5-Ln9 .frame-6-2cM {
+  box-sizing: border-box;
+  padding: 2.7rem 2.8rem 1.9rem 2.8rem;
+  width: 73rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #dedede;
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .frame-6-2cM
+  .auto-group-eq81-wUR {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .frame-6-2cM
+  .auto-group-eq81-wUR
+  .rectangle-158-HYH {
+  margin: 0.1rem 1.6rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.7rem 1.7rem 1.8rem 1.7rem;
+  width: 32.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 0.7049999237;
+  color: #999999;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  border: solid 0.1rem #dedede;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .frame-6-2cM
+  .auto-group-eq81-wUR
+  .rectangle-159-LWZ {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding: 1.7rem 2.4rem 1.8rem 2.4rem;
+  width: 32.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 0.7049999237;
+  color: #999999;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  border: solid 0.1rem #dedede;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .frame-6-2cM
+  .rectangle-160-bxH {
+  margin-bottom: 1.5rem;
+  box-sizing: border-box;
+  padding: 1.7rem 1.7rem 1.8rem 1.7rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 0.7049999237;
+  color: #999999;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  border: solid 0.1rem #dedede;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .frame-6-2cM
+  .rectangle-161-5cZ {
+  margin-bottom: 1.8rem;
+  box-sizing: border-box;
+  padding: 1.7rem;
+  width: 100%;
+  height: 11.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 0.7049999237;
+  color: #999999;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  border: solid 0.1rem #dedede;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-kds5-Ln9
+  .frame-6-2cM
+  .group-427324373-kyb {
+  width: 14.1rem;
+  height: 4.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 0.9102273305;
+  color: #ffffff;
+  font-family: Inter, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #86be3f;
+  border-radius: 0.6rem;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-1zrq-bzD {
+  width: 78.1958rem;
+  height: 10.3123rem;
+  position: absolute;
+  left: 49.3rem;
+  top: 5.3023rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-1zrq-bzD .auto-group-rvp7-Xcy {
+  margin: 2.7rem 20.4rem 0.953rem 0rem;
+  height: calc(100% - 3.6525rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-1zrq-bzD
+  .auto-group-rvp7-Xcy
+  .frequently-asked-questions-FJ5 {
+  margin-bottom: 1.6rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.5625;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-1zrq-bzD
+  .auto-group-rvp7-Xcy
+  .vector-16-xiH {
+  margin-bottom: 0.0598rem;
+  width: 14rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-1zrq-bzD
+  .auto-group-rvp7-Xcy
+  .vector-5-iBf {
+  width: 14rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-1zrq-bzD .group-427324297-rof {
+  width: 12.3958rem;
+  height: 10.3123rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-n1qz-zey {
+  box-sizing: border-box;
+  padding-bottom: 1.741rem;
+  width: 110.4rem;
+  height: 9.741rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 19.6621rem;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-hfed-UT7 .auto-group-n1qz-zey .auto-group-g7c1-WNR {
+  box-sizing: border-box;
+  padding: 1.6rem 85.491rem 1.6rem 2.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fefefe;
+  border-radius: 0.6rem 0.6rem 0 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-n1qz-zey
+  .auto-group-g7c1-WNR
+  .vector-SG5 {
+  margin: 0rem 2.788rem 0.076rem 0rem;
+  width: 1.8201rem;
+  height: 0.1705rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-n1qz-zey
+  .auto-group-g7c1-WNR
+  .dove-si-monta-sire-xVK {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .auto-group-n1qz-zey
+  .sire-pu-essere-montato-come-una-tenda-sul-balcone-o-come-pensilina-sulla-vetrina-porta-finestra-4YM {
+  margin-left: 2.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  color: #54595f;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324324-v4m {
+  box-sizing: border-box;
+  padding: 1.715rem 71.851rem 1.485rem 2.391rem;
+  width: 110.4rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 39.1023rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324324-v4m .group-427324321-Cny {
+  margin-right: 2.8614rem;
+  width: 1.9968rem;
+  height: 1.9968rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .group-427324324-v4m
+  .quanto-tempo-impiega-linstallazione-LeH {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324400-Rvd {
+  box-sizing: border-box;
+  padding: 1.715rem 79.951rem 1.485rem 2.391rem;
+  width: 110.4rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 31.5023rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324400-Rvd .group-427324321-8a9 {
+  margin-right: 2.8614rem;
+  width: 1.9968rem;
+  height: 1.9968rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .group-427324400-Rvd
+  .chi-monta-limpianto-sire-snd {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324326-md7 {
+  box-sizing: border-box;
+  padding: 1.721rem 59.751rem 1.479rem 2.391rem;
+  width: 110.4rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 46.7023rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324326-md7 .group-427324321-fiV {
+  margin-right: 2.8614rem;
+  width: 1.9968rem;
+  height: 1.9968rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .group-427324326-md7
+  .e-necessario-richiedere-autorizzazioni-al-condominio-oph {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324327-Uvq {
+  box-sizing: border-box;
+  padding: 1.728rem 66.551rem 1.472rem 2.391rem;
+  width: 110.4rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 54.3023rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324327-Uvq .group-427324321-KRf {
+  margin-right: 2.8614rem;
+  width: 1.9968rem;
+  height: 1.9968rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .group-427324327-Uvq
+  .e-necessario-predisporre-pratiche-per-il-gse-dBT {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324363-WW9 {
+  box-sizing: border-box;
+  padding: 1.728rem 84.451rem 1.472rem 2.391rem;
+  width: 110.4rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 61.9426rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324363-WW9 .group-427324321-BsB {
+  margin-right: 2.8614rem;
+  width: 1.9968rem;
+  height: 1.9968rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324363-WW9 .limpianto-garantito-KyP {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324364-2cu {
+  box-sizing: border-box;
+  padding: 1.728rem 73.351rem 1.472rem 2.391rem;
+  width: 110.4rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 69.5728rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+}
+.final-uS5 .auto-group-hfed-UT7 .group-427324364-2cu .group-427324321-wE5 {
+  margin-right: 2.8614rem;
+  width: 1.9968rem;
+  height: 1.9968rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hfed-UT7
+  .group-427324364-2cu
+  .e-possibile-usufruire-di-bonus-fiscali-Acd {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #363636;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ {
+  width: 100%;
+  height: 63.4282rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .rectangle-167-L9j {
+  width: 144rem;
+  height: 50.2rem;
+  position: absolute;
+  left: 0;
+  top: 13.2282rem;
+  background-color: #4d4d4d;
+}
+.final-uS5 .auto-group-hkxh-rEZ .frame-7-G3P {
+  width: 144rem;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 13.4282rem;
+  overflow: hidden;
+}
+.final-uS5 .auto-group-hkxh-rEZ .frame-7-G3P .group-427324398-CSq {
+  opacity: 0.91;
+  width: 144.8584rem;
+  height: 58.5385rem;
+  position: relative;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-pz1 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-AHB {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-hY1 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-qu7 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-Bi5 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-KpH {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-USH {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-RMX {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-ZyX {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-ibX {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-G7F {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-QjF {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-m41 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-WXP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-4J1 {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324390-XED
+  .image-7-QMs {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 7.2994rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-eGD {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-C2q {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-LPw {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-Um3 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-DTj {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-xgD {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-7JD {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-3hf {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-bDP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-8DK {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-GaR {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-cPP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-YXw {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-tbo {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-qX3 {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324391-wsb
+  .image-7-ydF {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 14.5987rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-Rk9 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-N9b {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-6bP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-Ehb {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-Zzm {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-v4d {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-riy {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-QVb {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-x1K {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-67X {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-3Hf {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-nW9 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-8a1 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-Gw7 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-RJD {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324392-vYV
+  .image-7-AWh {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 21.8981rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-Qvq {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-YXF {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-VBb {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-SMj {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-NmB {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-ia9 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-fVP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-Qhs {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-ZKs {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-r45 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-PZo {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-Xg1 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-5Bj {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-chT {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-m4Z {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324393-iHK
+  .image-7-6sX {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 29.1975rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-YjX {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-toP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-dFB {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-9UR {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-Umb {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-RB3 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-MqP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-6ny {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-2wX {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-NVb {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-K9w {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-rQm {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-arZ {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-7bb {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-4Wq {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324394-e8M
+  .image-7-puK {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 36.4968rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-ThP {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-oWM {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-M25 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-ga9 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-cih {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-xGm {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-J5j {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-33K {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-NrH {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-v77 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-rWZ {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-nv1 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-jqF {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-UH3 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-1nm {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324395-AiH
+  .image-7-9ty {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 43.7962rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-nh3 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-voF {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-4uT {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-D1f {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-Lry {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-HXK {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-2zh {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-BMo {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-Wus {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-riq {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-1Lq {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-MQh {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-6t5 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-rMT {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-QNy {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324396-trZ
+  .image-7-M3K {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5 {
+  width: 144.8584rem;
+  height: 7.443rem;
+  position: absolute;
+  left: 0;
+  top: 51.0956rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-nuK {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-jpZ {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-sfs {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-22y {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-xxD {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-JmB {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-Te5 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-QpD {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-ZSD {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-hHX {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-F49 {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-bNu {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-jzu {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-tcu {
+  margin-right: 0.1995rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-S8d {
+  margin-right: 0.1996rem;
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .frame-7-G3P
+  .group-427324398-CSq
+  .group-427324397-hN5
+  .image-7-aVj {
+  width: 8.8666rem;
+  height: 7.443rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .leo-dui-fermentum-tristique-urna-tellus-eget-amet-aliquam-id-vitae-orci-maecenas-tortor-odio-leo-dui-fermentum-tristique-urna-tellus-eget-amet-aliquam-vJh {
+  width: 27.4rem;
+  height: 11.7rem;
+  position: absolute;
+  left: 16.4rem;
+  top: 28.0018rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.4602273703;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5 .auto-group-hkxh-rEZ .help-center-wjb {
+  width: 9.5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 75.1291rem;
+  top: 28.0501rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9402273297;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .lindked-here-etu {
+  width: 10.3rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 75.1291rem;
+  top: 48.5268rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9402273297;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .privacy-policy-MoK {
+  width: 10.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 75.1rem;
+  top: 31.2501rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9402273297;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .terms-condition-GQV {
+  width: 14.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 75.1291rem;
+  top: 34.4501rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0952273607;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .faq-B1f {
+  width: 3.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 75.1291rem;
+  top: 37.8501rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.0952273607;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323706-tgm {
+  width: 31.2rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 96.4rem;
+  top: 27.5018rem;
+  display: flex;
+  align-items: flex-start;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323706-tgm .group-Qv1 {
+  margin: 0.4rem 2.1rem 0rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .group-427323706-tgm
+  .leo-dui-fermentum-tristique-urna-tellus-eget-amet-aliquam-id-vitae-orci-XUq {
+  max-width: 26.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.3352273703;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323707-2Ah {
+  width: 20.5291rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 36.0018rem;
+  display: flex;
+  align-items: center;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323707-2Ah .group-427323699-9m7 {
+  margin: 0rem 1.829rem 0.4rem 0rem;
+  width: 2.3rem;
+  height: 1.5813rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323707-2Ah .group-427324387-H6d {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .group-427323707-2Ah
+  .group-427324387-H6d
+  .emailemailcom-SER {
+  margin-bottom: 0.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9502273798;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .group-427323707-2Ah
+  .group-427324387-H6d
+  .supportemailcom-AgD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9502273798;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323708-udo {
+  width: 17.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 96.6rem;
+  top: 42.1018rem;
+  display: flex;
+  align-items: flex-end;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323708-udo .group-dph {
+  margin: 0rem 2.2rem 0.1rem 0rem;
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323708-udo .item-29-98595-8998-AZj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9502273798;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .quick-links-VM7 {
+  width: 9.1rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 23.85rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 0.955227375;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .useful-links-buw {
+  width: 9.5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 75.1rem;
+  top: 23.85rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 0.955227375;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .documents-X2u {
+  width: 9.5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 75.1rem;
+  top: 44.0518rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 0.955227375;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .contact-us-ET7 {
+  width: 9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 96.3rem;
+  top: 23.85rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 0.955227375;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .line-5-MXj {
+  width: 111rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 57.0474rem;
+  background-color: #c8c8c8;
+}
+.final-uS5 .auto-group-hkxh-rEZ .all-rights-reserved-tXf {
+  width: 13.1rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 16.6rem;
+  top: 59.7979rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 0.9149999619;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .vector-1MP {
+  width: 2.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 114.9rem;
+  top: 59.0479rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-6-YcD {
+  width: 2.587rem;
+  height: 2.5871rem;
+  position: absolute;
+  left: 119.8064rem;
+  top: 59.0543rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5 .auto-group-hkxh-rEZ .vector-gTX {
+  width: 2.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 124.7rem;
+  top: 59.0479rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.final-uS5 .auto-group-hkxh-rEZ .logo-1-p3w {
+  width: 9.7rem;
+  height: 4.6rem;
+  position: relative;
+  left: 16rem;
+  top: 20.8018rem;
+  background-size: 101.358% 100%;
+  background-position: -0.0823rem 0;
+  background-image: url("../assets/logo-1.png");
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .hf2eveveaqf0qwve9qpwtamywub3vwnwn6qph7joimcl82alozqdul73ovkgfnyid009zr342m4d8b49rxihvor2fghgfpu3klkzmquuqcf8w0jnkq3vln3bvbotqq5frbenmajggnodn42yhpifj6wxgejjdlkplkfi7vab9zopzzp3zp2jgthu6ydce4mwezx02jukwd6dujhqbgelrn-1-1-i9K {
+  width: 144.029rem;
+  height: 13.3589rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(134, 190, 63, 0.8600000143);
+  background-size: 100% 553.092%;
+  background-position: 0 -34.4936rem;
+  background-image: url("hf2eve-new.png");
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .hf2eveveaqf0qwve9qpwtamywub3vwnwn6qph7joimcl82alozqdul73ovkgfnyid009zr342m4d8b49rxihvor2fghgfpu3klkzmquuqcf8w0jnkq3vln3bvbotqq5frbenmajggnodn42yhpifj6wxgejjdlkplkfi7vab9zopzzp3zp2jgthu6ydce4mwezx02jukwd6dujhqbgelrn-1-1-i9K
+  .hf2eveveaqf0qwve9qpwtamywub3vwnwn6qph7joimcl82alozqdul73ovkgfnyid009zr342m4d8b49rxihvor2fghgfpu3klkzmquuqcf8w0jnkq3vln3bvbotqq5frbenmajggnodn42yhpifj6wxgejjdlkplkfi7vab9zopzzp3zp2jgthu6ydce4mwezx02jukwd6dujhqbgelrn-1-1-i9K-bg {
+  width: 144.029rem;
+  height: 13.3589rem;
+  position: relative;
+  background-image: url("REPLACE_IMAGE:3a205212077fcbffaa5268034e05c79676363a8f");
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323703-FoT {
+  box-sizing: border-box;
+  padding: 0.6rem 0.6rem 0.5rem 2.76rem;
+  width: 42.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 84.3rem;
+  top: 4.5295rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .group-427323703-FoT
+  .inserisci-la-tua-email-8sF {
+  margin: 0rem 17.94rem 0.103rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 0.7999999663;
+  color: #979797;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323703-FoT .auto-group-bnxu-SN9 {
+  width: 3.9rem;
+  height: 3.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.final-uS5 .auto-group-hkxh-rEZ .group-427323774-ktd {
+  /* background-color: #86be3f; */
+  width: 49rem;
+  height: 7.3rem;
+  position: absolute;
+  left: 16rem;
+  top: 3.5026rem;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .group-427323774-ktd
+  .subscribe-for-newsletter-gXP {
+  margin-bottom: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 0.7999999523;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5
+  .auto-group-hkxh-rEZ
+  .group-427323774-ktd
+  .leo-dui-fermentum-tristique-urna-tellus-eget-amet-aliquam-id-vitae-orci-maecenas-tortor-odio-RE5 {
+  max-width: 49rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.1252273321;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+.final-uS5 .auto-group-hkxh-rEZ .chi-siamo-uf3 {
+  width: 8.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 31.4018rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9546478987;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .sire-RdP {
+  width: 4.2rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 34.9018rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9546478987;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .sire-features-9JV {
+  width: 10.5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 38.4018rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9546478987;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .why-sire-eW9 {
+  width: 7.9rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 41.9018rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9546478987;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .sire-product-m4y {
+  width: 9.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 45.4018rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9546478987;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .how-it-works-gSq {
+  width: 11rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 48.5268rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 0.9546478987;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .home-zyK {
+  width: 4.8rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 27.9018rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 0.8102272749;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.final-uS5 .auto-group-hkxh-rEZ .image-1-iuK {
+  width: 7.7936rem;
+  height: 4.3459rem;
+  position: relative;
+  left: 16rem;
+  top: 41.5483rem;
+  background-size: 106.135% 100%;
+  background-position: -0.1769rem 0rem;
+  background-image: url("../assets/image-1.png");
+}
+.final-uS5 .auto-group-hkxh-rEZ .image-2-2QD {
+  width: 7.7936rem;
+  height: 4.3459rem;
+  position: relative;
+  left: 25.0525rem;
+  top: 41.5483rem;
+  background-size: 106.135% 100%;
+  background-position: -0.1769rem 0rem;
+  background-image: url("../assets/image-2.png");
+}
+.final-uS5 .auto-group-hkxh-rEZ .image-3-w1P {
+  width: 7.7936rem;
+  height: 4.3459rem;
+  position: relative;
+  left: 34.1051rem;
+  top: 41.5483rem;
+  background-size: 106.135% 100%;
+  background-position: -0.1769rem 0rem;
+  background-image: url("../assets/image-3.png");
+}
+.final-uS5 .auto-group-hkxh-rEZ .image-4-34R {
+  width: 7.7936rem;
+  height: 4.3459rem;
+  position: relative;
+  left: 16rem;
+  top: 46.5848rem;
+  background-size: 106.135% 100%;
+  background-position: -0.1769rem 0rem;
+  background-image: url("../assets/image-4.png");
+}
+.final-uS5 .auto-group-hkxh-rEZ .image-5-97T {
+  width: 7.7936rem;
+  height: 4.3459rem;
+  position: relative;
+  left: 25.0525rem;
+  top: 46.5848rem;
+  background-size: 106.135% 100%;
+  background-position: -0.1769rem 0rem;
+  background-image: url("../assets/image-5.png");
+}
+.final-uS5 .auto-group-hkxh-rEZ .image-6-3id {
+  width: 7.7936rem;
+  height: 4.3459rem;
+  position: relative;
+  left: 34.1051rem;
+  top: 46.5848rem;
+  background-size: 106.135% 100%;
+  background-position: -0.1769rem 0rem;
+  background-image: url("../assets/image-6.png");
+}
+.six-imgs {
+  display: flex;
+  margin: 2px;
+}
+.six-imgs .image-1-iuK {
+  margin: 0.6rem;
+}
